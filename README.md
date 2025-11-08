@@ -27,6 +27,8 @@ Output: [0,1]
 # CODE:
 
 # OUTPUT:
+![WhatsApp Image 2025-11-08 at 11 27 15_369c6b0a](https://github.com/user-attachments/assets/2cac42c7-1530-42fd-a805-892cdbc1e566)
+
 
 
 # Question 2:
@@ -51,3 +53,5 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 # CODE:
 
 # OUTPUT:
+![WhatsApp Image 2025-11-08 at 11 27 15_c3d22657](https://github.com/user-attachments/assets/3475a643-d78a-4d83-b670-32de900204df)
+
